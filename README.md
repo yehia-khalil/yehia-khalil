@@ -61,10 +61,14 @@ I build APIs that don't surprise you in production — typed all the way down, t
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=yehia-khalil&theme=dracula&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="github stats" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=yehia-khalil&theme=dracula&hide_border=true&layout=compact&langs_count=8" alt="top languages" />
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yehia-khalil&theme=dracula&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="github stats" />
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=yehia-khalil&theme=dracula&hide_border=true&layout=compact&langs_count=8" alt="top languages" />
 
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=yehia-khalil&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak" />
+<img height="170" src="https://streak-stats.demolab.com/?user=yehia-khalil&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yehia-khalil&theme=dracula&hide_border=true&bg_color=282A36&color=BD93F9&line=50FA7B&point=FF79C6&area=true" alt="activity graph" width="100%" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=yehia-khalil&theme=dracula&no-frame=true&row=1&column=7&margin-w=10" alt="trophies" />
 
 <img src="./gitartwork.svg" alt="contribution graph art" width="100%" />
 
