@@ -4,9 +4,8 @@
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=yehia-khalil&label=Profile%20views&color=BD93F9&style=flat" alt="profile views" />
-  <a href="mailto:yehia.khalil@247labs.com"><img src="https://img.shields.io/badge/email-yehia.khalil%40247labs.com-BD93F9?style=flat&logo=gmail&logoColor=white" alt="email" /></a>
+  <a href="mailto:yehiakhalilykk@gmail.com"><img src="https://img.shields.io/badge/email-yehiakhalilykk%40gmail.com-BD93F9?style=flat&logo=gmail&logoColor=white" alt="email" /></a>
   <img src="https://img.shields.io/badge/Alexandria%2C%20Egypt-282A36?style=flat&logo=googlemaps&logoColor=BD93F9" alt="location" />
-  <img src="https://img.shields.io/badge/247Labs-282A36?style=flat&logo=briefcase&logoColor=50FA7B" alt="company" />
 </p>
 
 </div>
@@ -15,7 +14,7 @@
 
 ### whoami
 
-Software engineer at **[247Labs](https://247labs.com)**, based in Alexandria, Egypt.
+Software engineer based in Alexandria, Egypt.
 
 I build APIs that don't surprise you in production — typed all the way down, tested at the boundaries, deployed without ceremony. Laravel is my daily driver; React Native is what I reach for when an API needs hands.
 
@@ -68,7 +67,9 @@ I build APIs that don't surprise you in production — typed all the way down, t
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yehia-khalil&theme=dracula&hide_border=true&bg_color=282A36&color=BD93F9&line=50FA7B&point=FF79C6&area=true" alt="activity graph" width="100%" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=yehia-khalil&theme=dracula&no-frame=true&row=1&column=7&margin-w=10" alt="trophies" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yehia-khalil&theme=dracula" alt="profile summary" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yehia-khalil&theme=dracula" alt="most-used languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yehia-khalil&theme=dracula&utcOffset=2" alt="productive hours" />
 
 <img src="./gitartwork.svg" alt="contribution graph art" width="100%" />
 
@@ -84,6 +85,6 @@ Training six days a week. Half the reason **HealthSync** exists is so I can stop
 
 <div align="center">
 
-<sub>Reachable at <b>yehia.khalil@247labs.com</b> · open to interesting work.</sub>
+<sub>Reachable at <b>yehiakhalilykk@gmail.com</b> · open to interesting work.</sub>
 
 </div>
