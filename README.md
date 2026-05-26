@@ -67,8 +67,6 @@ I build APIs that don't surprise you in production — typed all the way down, t
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yehia-khalil&theme=dracula&hide_border=true&bg_color=282A36&color=BD93F9&line=50FA7B&point=FF79C6&area=true" alt="activity graph" width="100%" />
 
-<img src="./gitartwork.svg" alt="contribution graph art" width="100%" />
-
 </div>
 
 ---
